@@ -1,0 +1,3 @@
+--> We have used Tailwindcss Postcss installation
+For Logos/Icons we have used 
+--> npm install lucide-react
