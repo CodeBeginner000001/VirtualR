@@ -1,5 +1,7 @@
 # VirtualR
-
+<p align="center">
+    <img width="1440" alt="Screenshot 2024-09-03 at 2 03 11 PM" src="https://github.com/user-attachments/assets/4be58bb5-edc1-4007-ac54-343b544564cc">
+</p>
 Welcome to **VirtualR**, a frontend project designed with TailwindCSS and React, and powered by React Vite. VirtualR showcases a sleek video presentation interface with autoplaying, muted, and looping videos, alongside a responsive navigation menu tailored for both mobile and large screens.
 
 ## Table of Contents
@@ -14,7 +16,8 @@ Welcome to **VirtualR**, a frontend project designed with TailwindCSS and React,
 4. [Features](#features)
 5. [Installation and Setup](#installation-and-setup)
 6. [Usage](#usage)
-7. [Conclusion](#conclusion)
+7. [Final View](#final-view)
+8. [Conclusion](#conclusion)
 
 ## Introduction
 
@@ -124,6 +127,16 @@ To get started with VirtualR, follow these steps:
 ## Usage
 
 After setting up the project, you can explore the various features of VirtualR by navigating through the interface. The videos will autoplay, and the responsive design will adapt to the screen size, ensuring a seamless experience on both mobile and desktop devices.
+
+## Final View
+- **Desktop View**
+  <p>
+      <img width="1440" alt="Screenshot 2024-09-03 at 2 03 21 PM" src="https://github.com/user-attachments/assets/65f07fd4-e6f3-4759-a3e9-775d7c9f7e2e">
+      <img width="1440" alt="Screenshot 2024-09-03 at 2 03 30 PM" src="https://github.com/user-attachments/assets/a8d3e90e-1094-44c1-93a7-69d4a48ca7c2">
+      <img width="1440" alt="Screenshot 2024-09-03 at 2 03 41 PM" src="https://github.com/user-attachments/assets/88f94337-5b75-4fff-b112-b2053a853454">
+      <img width="1440" alt="Screenshot 2024-09-03 at 2 03 52 PM" src="https://github.com/user-attachments/assets/34f58a7a-7d5a-4a2c-a80a-3dfd3eb541b9">
+      <img width="1440" alt="Screenshot 2024-09-03 at 2 04 05 PM" src="https://github.com/user-attachments/assets/3de8a04c-3266-4d2f-ba43-cabfec1f77c3">
+  </p>
 
 ## Conclusion
 
