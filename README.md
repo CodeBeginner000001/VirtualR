@@ -132,11 +132,16 @@ After setting up the project, you can explore the various features of VirtualR b
 - **Desktop View**
   <p>
       <img width="1440" alt="Screenshot 2024-09-03 at 2 03 21 PM" src="https://github.com/user-attachments/assets/65f07fd4-e6f3-4759-a3e9-775d7c9f7e2e">
+      <hr>
       <img width="1440" alt="Screenshot 2024-09-03 at 2 03 30 PM" src="https://github.com/user-attachments/assets/a8d3e90e-1094-44c1-93a7-69d4a48ca7c2">
+      <hr>
       <img width="1440" alt="Screenshot 2024-09-03 at 2 03 41 PM" src="https://github.com/user-attachments/assets/88f94337-5b75-4fff-b112-b2053a853454">
+      <hr>
       <img width="1440" alt="Screenshot 2024-09-03 at 2 03 52 PM" src="https://github.com/user-attachments/assets/34f58a7a-7d5a-4a2c-a80a-3dfd3eb541b9">
+      <hr>
       <img width="1440" alt="Screenshot 2024-09-03 at 2 04 05 PM" src="https://github.com/user-attachments/assets/3de8a04c-3266-4d2f-ba43-cabfec1f77c3">
   </p>
+  <hr>
 
 ## Conclusion
 
