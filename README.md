@@ -145,13 +145,18 @@ After setting up the project, you can explore the various features of VirtualR b
 - **Mobile View**
   <p>
       <p align="center">
-          <img align="left" width="351" alt="Screenshot 2024-09-03 at 2 04 49 PM" src="https://github.com/user-attachments/assets/d9041e49-267c-43b6-b056-9df007c78839">
-          <img align="center" width="276" alt="Screenshot 2024-09-03 at 2 05 04 PM" src="https://github.com/user-attachments/assets/c932d8a7-512d-44cc-a394-8be3564fcdad">
-          <img align="right" width="273" alt="Screenshot 2024-09-03 at 2 05 19 PM" src="https://github.com/user-attachments/assets/09a31401-f14a-4f2e-bee4-cb8b0dfc1ccc">
+          <img align="left" width="351" alt="Screenshot 2024-09-03 at 2 04 49 PM" src="https://github.com/user-attachments/assets/5ce23050-1390-4ca7-b525-a16a506f8b27">
+          <img align="center" width="270" alt="Screenshot 2024-09-03 at 2 05 04 PM" src="https://github.com/user-attachments/assets/026358b8-11f2-46ba-a724-27c889435cbd">
+          <img align="right" width="268" alt="Screenshot 2024-09-03 at 2 05 19 PM" src="https://github.com/user-attachments/assets/bd98fede-d9a3-4107-ba43-7928372ab81f">
       </p>
       <hr>
+      <p align="center">
+          <img align="left" width="269" alt="Screenshot 2024-09-03 at 2 05 32 PM" src="https://github.com/user-attachments/assets/2d5093a8-2cfa-4fce-adc4-809c52c3ccc0">
+          <img align="center" width="267" alt="Screenshot 2024-09-03 at 2 05 45 PM" src="https://github.com/user-attachments/assets/1343b818-0ef6-4dc4-9912-52c323e8b8c9">
+          <img align="right" width="260" alt="Screenshot 2024-09-03 at 2 06 05 PM" src="https://github.com/user-attachments/assets/b8c7df16-e1e8-4184-995a-0fe028bb0d8d">
+      </p>
   </p>
-  
+  <hr>
 
 ## Conclusion
 
