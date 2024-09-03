@@ -144,10 +144,11 @@ After setting up the project, you can explore the various features of VirtualR b
   <hr>
 - **Mobile View**
   <p>
-      <div style="display: flex; justify-content: space-between;">
-          <img width="351" alt="Screenshot 2024-09-03 at 2 04 49 PM" src="https://github.com/user-attachments/assets/d9041e49-267c-43b6-b056-9df007c78839">
-          <img width="276" alt="Screenshot 2024-09-03 at 2 05 04 PM" src="https://github.com/user-attachments/assets/c932d8a7-512d-44cc-a394-8be3564fcdad">
-      </div>
+      <p align="center">
+          <img align="left" width="351" alt="Screenshot 2024-09-03 at 2 04 49 PM" src="https://github.com/user-attachments/assets/d9041e49-267c-43b6-b056-9df007c78839">
+          <img align="center" width="276" alt="Screenshot 2024-09-03 at 2 05 04 PM" src="https://github.com/user-attachments/assets/c932d8a7-512d-44cc-a394-8be3564fcdad">
+          <img align="right" width="273" alt="Screenshot 2024-09-03 at 2 05 19 PM" src="https://github.com/user-attachments/assets/09a31401-f14a-4f2e-bee4-cb8b0dfc1ccc">
+      </p>
       <hr>
   </p>
   
