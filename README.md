@@ -147,7 +147,7 @@ After setting up the project, you can explore the various features of VirtualR b
     <img align="left" width="351" alt="Screenshot 2024-09-03 at 2 04 49 PM" src="https://github.com/user-attachments/assets/5ce23050-1390-4ca7-b525-a16a506f8b27">
     <img align="center" width="270" alt="Screenshot 2024-09-03 at 2 05 04 PM" src="https://github.com/user-attachments/assets/026358b8-11f2-46ba-a724-27c889435cbd">
     <img align="right" width="268" alt="Screenshot 2024-09-03 at 2 05 19 PM" src="https://github.com/user-attachments/assets/bd98fede-d9a3-4107-ba43-7928372ab81f">
-    <hr>
+    <hr width="full">
 </p>
 <p align="center">
     <img align="left" width="269" alt="Screenshot 2024-09-03 at 2 05 32 PM" src="https://github.com/user-attachments/assets/2d5093a8-2cfa-4fce-adc4-809c52c3ccc0">
