@@ -162,6 +162,10 @@ After setting up the project, you can explore the various features of VirtualR b
   </kbd>
 </p>
 <hr>
+
+
 ## Conclusion
 
 VirtualR is a demonstration of modern frontend development practices, combining the power of TailwindCSS, React, and Lucide-React, all within the fast and optimized environment provided by React Vite. This project serves as a robust foundation for further development, whether for personal learning or professional applications.
+
+-----------------------------------------------------------------
