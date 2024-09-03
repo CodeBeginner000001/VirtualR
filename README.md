@@ -148,12 +148,13 @@ After setting up the project, you can explore the various features of VirtualR b
           <img width="351" alt="Screenshot 2024-09-03 at 2 04 49 PM" src="https://github.com/user-attachments/assets/d9041e49-267c-43b6-b056-9df007c78839">
           <img width="276" alt="Screenshot 2024-09-03 at 2 05 04 PM" src="https://github.com/user-attachments/assets/c932d8a7-512d-44cc-a394-8be3564fcdad">
       </p>
+      .container{
+         display: flex;
+         justify-content: space-around;
+       }
       <hr>
   </p>
-  .container{
-   display: flex;
-   justify-content: space-around;
-  }
+  
 
 ## Conclusion
 
